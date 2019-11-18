@@ -13,7 +13,7 @@ It can be used by sending an equation to localhost:8080/calculator?equation=1%20
 curl -X GET http://localhost:8080/calculator?equation=1%20%2B%201
 
 Note that the equation must URI encoded.
-The example shown is 1 + 1
+The example shown is 1 + 1.
 A Jest test suite is included for immediate verification.
 
 ## Discoveries
