@@ -21,3 +21,7 @@ A Jest test suite is included for immediate verification.
 The coverage report was nearly 100% across the board when I used one-liners.
 That dropped dramatically when splitting it up for readability.
 I suspect it simply didn't take into account all the extra curly braces.
+
+## Disclaimers
+
+A couple commented out tests are left in. Those are for me to return to as reference. Also, I did not find a way to test catching errors.
